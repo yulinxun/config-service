@@ -1,1 +1,2 @@
-server:123
+image:
+  server: http://dev888.com
